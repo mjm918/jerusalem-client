@@ -1,0 +1,6 @@
+local-host: "127.0.0.0"
+local-port: "9090"
+server: "0.0.0.0"
+server-port: "8901"
+client-id: "TEST"
+secret-key: "2y6sUp8cBSfNDk7Jq5uLm0xHAIOb9ZGqE4hR1WVXtCwKjP3dYzvTn2QiFXe8rMb6"
