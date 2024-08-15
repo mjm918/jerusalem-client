@@ -1,4 +1,4 @@
-local-host: "127.0.0.0"
+local-host: "127.0.0.1"
 local-port: "9090"
 server: "0.0.0.0"
 server-port: "8901"

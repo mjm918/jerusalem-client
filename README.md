@@ -2,7 +2,7 @@
 
 Jerusalem CLI Client is a cross-platform client for the Jerusalem Tunnel project written in Go. It allows clients to
 create a secure tunnel from their localhost to a public server, making it accessible from anywhere.
-
+![ss.png](.assets/ss.png)
 ## Features
 
 - **Cross-Platform**: Works on Windows, macOS, and Linux.
@@ -50,4 +50,4 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Mozilla Public License Version 2.0. See the [LICENSE](LICENSE) file for details.
